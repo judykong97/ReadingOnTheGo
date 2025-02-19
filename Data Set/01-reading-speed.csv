@@ -1,0 +1,301 @@
+SubjectId, ArticleId, Interface, Order, Posture, ReadingSpeed
+P01, Marathon Monks, StaticSmall, 1, walking, 136.6184
+P01, Marathon Monks, StaticSmall, 1, stationary, 277.1337
+P01, History of the Olympics, Automatic, 2, walking, 254.3684
+P01, History of the Olympics, Automatic, 2, stationary, 388.3804
+P01, Evolution of Technology, Customized, 3, walking, 180.3237
+P01, Evolution of Technology, Customized, 3, stationary, 240.9638
+P02, History of the Olympics, Automatic, 3, walking, 288.0693
+P02, History of the Olympics, Automatic, 3, stationary, 140.3102
+P02, Domestication of Cats, Customized, 2, walking, 101.1148
+P02, Domestication of Cats, Customized, 2, stationary, 196.2146
+P03, Carthage, Customized, 3, walking, 241.9265
+P03, Carthage, Customized, 3, stationary, 350.6038
+P04, Spies and Secret Agents, StaticSmall, 1, walking, 388.4814
+P04, Spies and Secret Agents, StaticSmall, 1, stationary, 267.0138
+P04, Hummingbirds, Automatic, 3, walking, 294.5033
+P04, Hummingbirds, Automatic, 3, stationary, 244.8967
+P05, Star Wars, Automatic, 2, walking, 131.3788
+P05, Star Wars, Automatic, 2, stationary, 264.8212
+P05, Evolution of Technology, Customized, 3, walking, 336.9729
+P05, Evolution of Technology, Customized, 3, stationary, 275.4979
+P06, History of the Olympics, StaticSmall, 1, walking, 208.6773
+P06, History of the Olympics, StaticSmall, 1, stationary, 338.5634
+P06, Marathon Monks, Automatic, 3, walking, 308.4333
+P06, Marathon Monks, Automatic, 3, stationary, 427.2187
+P06, Carthage, Customized, 2, walking, 161.0796
+P06, Carthage, Customized, 2, stationary, 262.6154
+P07, Social Media, StaticSmall, 1, walking, 223.7322
+P07, Social Media, StaticSmall, 1, stationary, 484.0413
+P07, History of Chess, Automatic, 2, walking, 372.6574
+P07, History of Chess, Automatic, 2, stationary, 569.8980
+P07, History of the Olympics, Customized, 3, walking, 257.7959
+P07, History of the Olympics, Customized, 3, stationary, 459.4345
+P08, Carthage, StaticSmall, 1, walking, 205.2921
+P08, Carthage, StaticSmall, 1, stationary, 609.3911
+P08, Mushrooms, Customized, 2, walking, 311.1852
+P08, Mushrooms, Customized, 2, stationary, 447.3774
+P08, Evolution of Technology, StaticBig, 4, walking, 357.9374
+P08, Evolution of Technology, StaticBig, 4, stationary, 335.1439
+P09, Plankton, StaticSmall, 1, walking, 242.7282
+P09, Plankton, StaticSmall, 1, stationary, 281.5279
+P09, Mushrooms, Automatic, 2, walking, 187.6066
+P09, Mushrooms, Automatic, 2, stationary, 251.1017
+P09, Time Travel, Customized, 3, walking, 282.3192
+P09, Time Travel, Customized, 3, stationary, 261.1186
+P09, Star Wars, StaticBig, 4, walking, 385.3853
+P09, Star Wars, StaticBig, 4, stationary, 257.8560
+P10, Spies and Secret Agents, Automatic, 3, walking, 264.7042
+P10, Spies and Secret Agents, Automatic, 3, stationary, 520.6359
+P10, History of the Olympics, Customized, 2, walking, 236.9367
+P10, History of the Olympics, Customized, 2, stationary, 166.1221
+P11, Star Wars, StaticSmall, 1, walking, 152.2619
+P11, Star Wars, StaticSmall, 1, stationary, 537.9371
+P11, Plankton, Automatic, 2, walking, 381.2868
+P11, Plankton, Automatic, 2, stationary, 538.8035
+P11, Marathon Monks, Customized, 3, walking, 185.4320
+P11, Marathon Monks, Customized, 3, stationary, 430.3248
+P11, Evolution of Technology, StaticBig, 4, walking, 299.3395
+P11, Evolution of Technology, StaticBig, 4, stationary, 429.6916
+P12, Marathon Monks, StaticSmall, 1, walking, 144.4942
+P12, Marathon Monks, StaticSmall, 1, stationary, 378.2359
+P12, Time Travel, Automatic, 3, walking, 298.1094
+P12, Time Travel, Automatic, 3, stationary, 591.8680
+P12, Mushrooms, Customized, 2, walking, 158.8607
+P12, Mushrooms, Customized, 2, stationary, 396.1245
+P12, Spies and Secret Agents, StaticBig, 4, walking, 254.0989
+P12, Spies and Secret Agents, StaticBig, 4, stationary, 243.2932
+P13, History of the Olympics, StaticSmall, 1, walking, 97.5359
+P13, History of the Olympics, StaticSmall, 1, stationary, 585.8704
+P13, Plankton, Automatic, 2, walking, 543.0252
+P13, Plankton, Automatic, 2, stationary, 354.9164
+P13, Streetcars, StaticBig, 4, walking, 550.6451
+P13, Streetcars, StaticBig, 4, stationary, 464.5517
+P14, Carthage, StaticSmall, 1, walking, 141.6297
+P14, Carthage, StaticSmall, 1, stationary, 141.8003
+P14, History of Chess, Automatic, 3, walking, 96.7387
+P14, History of Chess, Automatic, 3, stationary, 157.6658
+P14, Star Wars, Customized, 2, walking, 160.9755
+P14, Star Wars, Customized, 2, stationary, 162.3622
+P14, Streetcars, StaticBig, 4, walking, 193.9032
+P14, Streetcars, StaticBig, 4, stationary, 141.1285
+P15, Spies and Secret Agents, StaticSmall, 1, walking, 139.5401
+P15, Spies and Secret Agents, StaticSmall, 1, stationary, 391.6651
+P15, History of the Olympics, Automatic, 2, walking, 271.3456
+P15, History of the Olympics, Automatic, 2, stationary, 552.9423
+P15, Evolution of Technology, Customized, 3, walking, 325.8319
+P15, Evolution of Technology, Customized, 3, stationary, 252.6220
+P16, Marathon Monks, Automatic, 3, walking, 338.9854
+P16, Marathon Monks, Automatic, 3, stationary, 488.1571
+P16, Streetcars, StaticBig, 4, walking, 308.5112
+P16, Streetcars, StaticBig, 4, stationary, 231.2080
+P17, Star Wars, StaticSmall, 1, walking, 307.1177
+P17, Star Wars, StaticSmall, 1, stationary, 333.3344
+P17, Plankton, Automatic, 2, walking, 356.3856
+P17, Plankton, Automatic, 2, stationary, 261.7409
+P17, Domestication of Cats, Customized, 3, walking, 88.3996
+P17, Domestication of Cats, Customized, 3, stationary, 329.7043
+P17, Mushrooms, StaticBig, 4, walking, 225.7550
+P17, Mushrooms, StaticBig, 4, stationary, 307.1360
+P18, Domestication of Cats, StaticSmall, 1, walking, 277.5758
+P18, Domestication of Cats, StaticSmall, 1, stationary, 474.8508
+P18, Star Wars, Automatic, 3, walking, 351.4596
+P18, Star Wars, Automatic, 3, stationary, 507.9346
+P18, Streetcars, Customized, 2, walking, 217.2004
+P18, Streetcars, Customized, 2, stationary, 423.6221
+P18, Mushrooms, StaticBig, 4, walking, 268.6077
+P18, Mushrooms, StaticBig, 4, stationary, 311.7939
+P19, Spies and Secret Agents, StaticSmall, 1, walking, 167.5853
+P19, Spies and Secret Agents, StaticSmall, 1, stationary, 192.2863
+P19, Marathon Monks, Automatic, 2, walking, 113.8793
+P19, Marathon Monks, Automatic, 2, stationary, 199.0708
+P19, Plankton, Customized, 3, walking, 112.1666
+P19, Plankton, Customized, 3, stationary, 197.1613
+P19, Mushrooms, StaticBig, 4, walking, 136.9590
+P19, Mushrooms, StaticBig, 4, stationary, 117.5815
+P20, History of the Olympics, StaticSmall, 1, walking, 309.2000
+P20, History of the Olympics, StaticSmall, 1, stationary, 209.3523
+P20, Hummingbirds, Automatic, 3, walking, 289.6489
+P20, Hummingbirds, Automatic, 3, stationary, 201.5908
+P20, Evolution of Technology, Customized, 2, walking, 273.5538
+P20, Evolution of Technology, Customized, 2, stationary, 229.2032
+P20, Carthage, StaticBig, 4, walking, 199.5878
+P20, Carthage, StaticBig, 4, stationary, 194.5170
+P21, History of the Olympics, StaticSmall, 1, walking, 120.1044
+P21, History of the Olympics, StaticSmall, 1, stationary, 180.0945
+P21, Spies and Secret Agents, Automatic, 2, walking, 118.6069
+P21, Spies and Secret Agents, Automatic, 2, stationary, 200.3893
+P21, Social Media, StaticBig, 4, walking, 220.5102
+P21, Social Media, StaticBig, 4, stationary, 202.5870
+P22, Mushrooms, StaticSmall, 1, walking, 54.5264
+P22, Mushrooms, StaticSmall, 1, stationary, 269.2406
+P22, Star Wars, Automatic, 3, walking, 159.9605
+P22, Star Wars, Automatic, 3, stationary, 251.5727
+P22, Evolution of Technology, Customized, 2, walking, 139.4437
+P22, Evolution of Technology, Customized, 2, stationary, 188.8157
+P22, Plankton, StaticBig, 4, walking, 143.5779
+P22, Plankton, StaticBig, 4, stationary, 198.2313
+P23, Streetcars, StaticSmall, 1, walking, 127.4429
+P23, Streetcars, StaticSmall, 1, stationary, 384.8464
+P23, Plankton, Automatic, 2, walking, 368.3010
+P23, Plankton, Automatic, 2, stationary, 493.0878
+P23, Marathon Monks, Customized, 3, walking, 335.6457
+P23, Marathon Monks, Customized, 3, stationary, 221.2134
+P23, Time Travel, StaticBig, 4, walking, 265.0502
+P23, Time Travel, StaticBig, 4, stationary, 324.2763
+P24, Social Media, StaticSmall, 1, walking, 539.5062
+P24, Social Media, StaticSmall, 1, stationary, 211.3317
+P24, Star Wars, Automatic, 3, walking, 233.0356
+P24, Star Wars, Automatic, 3, stationary, 187.2715
+P24, Spies and Secret Agents, Customized, 2, walking, 194.7826
+P24, Spies and Secret Agents, Customized, 2, stationary, 253.1259
+P24, Mushrooms, StaticBig, 4, walking, 130.0029
+P24, Mushrooms, StaticBig, 4, stationary, 143.9878
+P25, Mushrooms, StaticSmall, 1, walking, 93.3810
+P25, Mushrooms, StaticSmall, 1, stationary, 113.1119
+P25, Star Wars, Automatic, 2, walking, 157.9750
+P25, Star Wars, Automatic, 2, stationary, 118.3255
+P25, Evolution of Technology, Customized, 3, walking, 182.2398
+P25, Evolution of Technology, Customized, 3, stationary, 111.3427
+P26, History of the Olympics, StaticSmall, 1, walking, 90.7581
+P26, History of the Olympics, StaticSmall, 1, stationary, 434.4734
+P26, Streetcars, Automatic, 3, walking, 234.1011
+P26, Streetcars, Automatic, 3, stationary, 396.6611
+P26, Hummingbirds, Customized, 2, walking, 116.8458
+P26, Hummingbirds, Customized, 2, stationary, 271.7593
+P26, Evolution of Technology, StaticBig, 4, walking, 210.7525
+P26, Evolution of Technology, StaticBig, 4, stationary, 233.8241
+P27, Evolution of Technology, StaticSmall, 1, walking, 390.2786
+P27, Evolution of Technology, StaticSmall, 1, stationary, 207.3772
+P27, Star Wars, Automatic, 2, walking, 214.9647
+P27, Star Wars, Automatic, 2, stationary, 397.1757
+P27, Plankton, Customized, 3, walking, 224.2192
+P27, Plankton, Customized, 3, stationary, 304.0481
+P27, Time Travel, StaticBig, 4, walking, 253.7382
+P27, Time Travel, StaticBig, 4, stationary, 256.2209
+P28, Carthage, StaticSmall, 1, walking, 226.3699
+P28, Carthage, StaticSmall, 1, stationary, 180.9124
+P28, Social Media, Automatic, 3, walking, 191.9693
+P28, Social Media, Automatic, 3, stationary, 181.0322
+P28, History of Chess, Customized, 2, walking, 123.8471
+P28, History of Chess, Customized, 2, stationary, 229.8565
+P28, Evolution of Technology, StaticBig, 4, walking, 172.9681
+P28, Evolution of Technology, StaticBig, 4, stationary, 198.4988
+P29, History of Chess, StaticSmall, 1, walking, 162.3346
+P29, History of Chess, StaticSmall, 1, stationary, 194.5061
+P29, History of the Olympics, Automatic, 2, walking, 181.9252
+P29, History of the Olympics, Automatic, 2, stationary, 234.0610
+P29, Hummingbirds, Customized, 3, walking, 205.2402
+P29, Hummingbirds, Customized, 3, stationary, 271.1105
+P29, Carthage, StaticBig, 4, walking, 173.6096
+P29, Carthage, StaticBig, 4, stationary, 178.8672
+P30, Evolution of Technology, StaticSmall, 1, walking, 201.3005
+P30, Evolution of Technology, StaticSmall, 1, stationary, 168.1658
+P30, Mushrooms, Automatic, 3, walking, 238.4254
+P30, Mushrooms, Automatic, 3, stationary, 322.6555
+P30, Social Media, Customized, 2, walking, 166.5601
+P30, Social Media, Customized, 2, stationary, 228.6361
+P30, Hummingbirds, StaticBig, 4, walking, 162.5485
+P30, Hummingbirds, StaticBig, 4, stationary, 154.5858
+P31, History of the Olympics, Automatic, 2, walking, 106.8456
+P31, History of the Olympics, Automatic, 2, stationary, 354.3062
+P31, Carthage, Customized, 3, walking, 159.2995
+P31, Carthage, Customized, 3, stationary, 393.6150
+P31, Spies and Secret Agents, StaticBig, 4, walking, 370.2309
+P31, Spies and Secret Agents, StaticBig, 4, stationary, 437.2925
+P32, History of the Olympics, StaticSmall, 1, walking, 182.8636
+P32, History of the Olympics, StaticSmall, 1, stationary, 236.0538
+P32, Star Wars, Automatic, 3, walking, 303.9668
+P32, Star Wars, Automatic, 3, stationary, 367.6104
+P32, Marathon Monks, Customized, 2, walking, 225.6347
+P32, Marathon Monks, Customized, 2, stationary, 243.6854
+P32, Social Media, StaticBig, 4, walking, 276.0085
+P32, Social Media, StaticBig, 4, stationary, 181.3489
+P33, Time Travel, StaticSmall, 1, walking, 160.7530
+P33, Time Travel, StaticSmall, 1, stationary, 552.3019
+P33, History of the Olympics, StaticBig, 4, walking, 338.5742
+P33, History of the Olympics, StaticBig, 4, stationary, 327.8572
+P34, Streetcars, Automatic, 3, walking, 60.0259
+P34, Streetcars, Automatic, 3, stationary, 404.1616
+P34, Hummingbirds, Customized, 2, walking, 188.6657
+P34, Hummingbirds, Customized, 2, stationary, 272.3422
+P35, Domestication of Cats, StaticSmall, 1, walking, 70.5408
+P35, Domestication of Cats, StaticSmall, 1, stationary, 267.0910
+P35, Time Travel, Automatic, 2, walking, 257.2279
+P35, Time Travel, Automatic, 2, stationary, 275.0549
+P35, Carthage, StaticBig, 4, walking, 193.5777
+P35, Carthage, StaticBig, 4, stationary, 173.1413
+P36, Star Wars, StaticSmall, 1, walking, 341.9946
+P36, Star Wars, StaticSmall, 1, stationary, 204.1347
+P36, Social Media, Automatic, 3, walking, 435.5510
+P36, Social Media, Automatic, 3, stationary, 165.0538
+P36, Marathon Monks, Customized, 2, walking, 352.6638
+P36, Marathon Monks, Customized, 2, stationary, 230.5645
+P36, Evolution of Technology, StaticBig, 4, walking, 211.2609
+P36, Evolution of Technology, StaticBig, 4, stationary, 324.6642
+P37, Star Wars, StaticSmall, 1, walking, 104.2597
+P37, Star Wars, StaticSmall, 1, stationary, 171.8739
+P37, Carthage, Automatic, 2, walking, 118.9683
+P37, Carthage, Automatic, 2, stationary, 134.7946
+P37, Spies and Secret Agents, StaticBig, 4, walking, 173.4823
+P37, Spies and Secret Agents, StaticBig, 4, stationary, 193.2428
+P38, History of the Olympics, StaticSmall, 1, walking, 134.3509
+P38, History of the Olympics, StaticSmall, 1, stationary, 177.7370
+P38, Spies and Secret Agents, Automatic, 3, walking, 152.5660
+P38, Spies and Secret Agents, Automatic, 3, stationary, 123.1873
+P38, Domestication of Cats, Customized, 2, walking, 112.6397
+P38, Domestication of Cats, Customized, 2, stationary, 126.4660
+P38, Mushrooms, StaticBig, 4, walking, 123.9740
+P38, Mushrooms, StaticBig, 4, stationary, 121.7920
+P39, Hummingbirds, StaticSmall, 1, walking, 107.3150
+P39, Hummingbirds, StaticSmall, 1, stationary, 331.7872
+P39, Mushrooms, Automatic, 2, walking, 210.4397
+P39, Mushrooms, Automatic, 2, stationary, 284.9373
+P39, Spies and Secret Agents, Customized, 3, walking, 244.6705
+P39, Spies and Secret Agents, Customized, 3, stationary, 242.9291
+P39, Domestication of Cats, StaticBig, 4, walking, 259.8822
+P39, Domestication of Cats, StaticBig, 4, stationary, 192.4948
+P40, Carthage, StaticSmall, 1, walking, 150.3655
+P40, Carthage, StaticSmall, 1, stationary, 298.4618
+P40, Star Wars, Automatic, 3, walking, 215.9847
+P40, Star Wars, Automatic, 3, stationary, 484.0353
+P40, Evolution of Technology, Customized, 2, walking, 219.6273
+P40, Evolution of Technology, Customized, 2, stationary, 277.9756
+P40, History of Chess, StaticBig, 4, walking, 244.5809
+P40, History of Chess, StaticBig, 4, stationary, 298.1707
+P41, Spies and Secret Agents, StaticSmall, 1, walking, 99.8684
+P41, Spies and Secret Agents, StaticSmall, 1, stationary, 392.6625
+P41, Domestication of Cats, Automatic, 2, walking, 262.5787
+P41, Domestication of Cats, Automatic, 2, stationary, 356.6019
+P41, Hummingbirds, Customized, 3, walking, 231.1119
+P41, Hummingbirds, Customized, 3, stationary, 354.3109
+P42, Star Wars, StaticSmall, 1, walking, 199.2331
+P42, Star Wars, StaticSmall, 1, stationary, 222.6897
+P42, Domestication of Cats, Automatic, 3, walking, 159.1541
+P42, Domestication of Cats, Automatic, 3, stationary, 229.9453
+P42, Marathon Monks, Customized, 2, walking, 212.3442
+P42, Marathon Monks, Customized, 2, stationary, 224.4686
+P42, Plankton, StaticBig, 4, walking, 222.5965
+P42, Plankton, StaticBig, 4, stationary, 199.4605
+P43, Streetcars, StaticSmall, 1, walking, 125.2355
+P43, Streetcars, StaticSmall, 1, stationary, 321.6330
+P43, Social Media, Automatic, 2, walking, 321.5837
+P43, Social Media, Automatic, 2, stationary, 296.5194
+P43, History of the Olympics, Customized, 3, walking, 221.6618
+P43, History of the Olympics, Customized, 3, stationary, 198.7871
+P43, Spies and Secret Agents, StaticBig, 4, walking, 210.7230
+P43, Spies and Secret Agents, StaticBig, 4, stationary, 188.6809
+P44, Marathon Monks, Automatic, 3, walking, 248.8360
+P44, Marathon Monks, Automatic, 3, stationary, 340.1725
+P44, Star Wars, Customized, 2, walking, 131.4191
+P44, Star Wars, Customized, 2, stationary, 364.7852
+P44, Time Travel, StaticBig, 4, walking, 160.5409
+P44, Time Travel, StaticBig, 4, stationary, 256.8488
+P45, Streetcars, StaticSmall, 1, walking, 88.7083
+P45, Streetcars, StaticSmall, 1, stationary, 195.2564
+P45, Time Travel, Automatic, 2, walking, 233.8916
+P45, Time Travel, Automatic, 2, stationary, 165.4888
+P45, Domestication of Cats, Customized, 3, walking, 144.7151
+P45, Domestication of Cats, Customized, 3, stationary, 206.3364
+P45, Star Wars, StaticBig, 4, walking, 116.7545
+P45, Star Wars, StaticBig, 4, stationary, 158.8005

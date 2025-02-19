@@ -1,0 +1,174 @@
+SubjectId, ArticleId, Interface, Order, PhysicalDemand, MentalDemand, TemporalDemand, Performance, Effort, Frustration
+P01, Marathon Monks, StaticSmall, 1, 3, 5, 6, 3, 5, 5
+P01, History of the Olympics, Automatic, 2, 4, 5, 5, 5, 5, 5
+P01, Evolution of Technology, Customized, 3, 4, 7, 7, 6, 7, 7
+P02, Time Travel, StaticSmall, 1, 6, 7, 6, 6, 5, 5
+P02, History of the Olympics, Automatic, 3, 3, 3, 4, 3, 2, 3
+P02, Domestication of Cats, Customized, 2, 3, 4, 4, 3, 5, 5
+P03, Star Wars, StaticSmall, 1, 4, 3, 5, 3, 2, 2
+P03, Spies and Secret Agents, Automatic, 2, 3, 3, 3, 2, 2, 3
+P03, Carthage, Customized, 3, 3, 3, 4, 3, 2, 3
+P04, Spies and Secret Agents, StaticSmall, 1, 4, 3, 4, 5, 5, 4
+P04, Hummingbirds, Automatic, 3, 4, 3, 3, 4, 3, 3
+P04, Marathon Monks, Customized, 2, 4, 5, 4, 5, 4, 4
+P05, Streetcars, StaticSmall, 1, 5, 6, 3, 5, 5, 2
+P05, Star Wars, Automatic, 2, 5, 5, 2, 6, 5, 3
+P05, Evolution of Technology, Customized, 3, 3, 3, 2, 5, 5, 3
+P06, History of the Olympics, StaticSmall, 1, 2, 2, 3, 2, 2, 3
+P06, Marathon Monks, Automatic, 3, 1, 2, 1, 2, 1, 1
+P06, Carthage, Customized, 2, 1, 2, 1, 2, 1, 1
+P07, Social Media, StaticSmall, 1, 4, 5, 5, 5, 5, 5
+P07, History of Chess, Automatic, 2, 6, 6, 5, 7, 6, 6
+P07, History of the Olympics, Customized, 3, 5, 5, 6, 6, 7, 6
+P08, Carthage, StaticSmall, 1, 2, 3, 5, 3, 3, 2
+P08, Time Travel, Automatic, 3, 1, 1, 2, 2, 1, 1
+P08, Mushrooms, Customized, 2, 2, 1, 3, 2, 2, 1
+P08, Evolution of Technology, StaticBig, 4, 1, 1, 2, 2, 1, 1
+P09, Plankton, StaticSmall, 1, 3, 5, 5, 5, 6, 4
+P09, Mushrooms, Automatic, 2, 4, 3, 5, 5, 5, 4
+P09, Time Travel, Customized, 3, 5, 5, 5, 3, 5, 1
+P09, Star Wars, StaticBig, 4, 2, 1, 3, 3, 3, 1
+P10, Domestication of Cats, StaticSmall, 1, 6, 5, 5, 5, 5, 4
+P10, Spies and Secret Agents, Automatic, 3, 3, 3, 4, 4, 5, 4
+P10, History of the Olympics, Customized, 2, 4, 4, 3, 4, 5, 3
+P10, Hummingbirds, StaticBig, 4, 2, 2, 3, 3, 3, 2
+P11, Star Wars, StaticSmall, 1, 4, 5, 5, 4, 5, 1
+P11, Plankton, Automatic, 2, 4, 5, 5, 5, 5, 4
+P11, Marathon Monks, Customized, 3, 4, 5, 5, 3, 5, 1
+P11, Evolution of Technology, StaticBig, 4, 5, 4, 5, 5, 5, 1
+P12, Marathon Monks, StaticSmall, 1, 2, 3, 3, 3, 4, 2
+P12, Time Travel, Automatic, 3, 2, 2, 2, 2, 2, 2
+P12, Mushrooms, Customized, 2, 2, 5, 2, 3, 3, 2
+P12, Spies and Secret Agents, StaticBig, 4, 2, 2, 2, 2, 2, 2
+P13, History of the Olympics, StaticSmall, 1, 2, 1, 3, 2, 2, 2
+P13, Plankton, Automatic, 2, 2, 2, 2, 5, 2, 4
+P13, Marathon Monks, Customized, 3, 3, 2, 3, 4, 3, 4
+P13, Streetcars, StaticBig, 4, 1, 5, 3, 4, 1, 4
+P14, Carthage, StaticSmall, 1, 5, 5, 4, 5, 5, 4
+P14, History of Chess, Automatic, 3, 3, 3, 3, 3, 3, 3
+P14, Star Wars, Customized, 2, 5, 4, 4, 3, 4, 4
+P14, Streetcars, StaticBig, 4, 2, 3, 2, 3, 2, 2
+P15, Spies and Secret Agents, StaticSmall, 1, 6, 6, 5, 6, 6, 5
+P15, History of the Olympics, Automatic, 2, 5, 5, 5, 3, 5, 4
+P15, Evolution of Technology, Customized, 3, 5, 5, 4, 5, 5, 5
+P15, History of Chess, StaticBig, 4, 4, 3, 4, 3, 3, 4
+P16, Evolution of Technology, StaticSmall, 1, 1, 2, 2, 3, 3, 2
+P16, Marathon Monks, Automatic, 3, 2, 2, 2, 3, 2, 2
+P16, Time Travel, Customized, 2, 2, 3, 2, 2, 3, 2
+P16, Streetcars, StaticBig, 4, 2, 2, 2, 2, 3, 2
+P17, Star Wars, StaticSmall, 1, 3, 5, 5, 5, 5, 4
+P17, Plankton, Automatic, 2, 3, 6, 5, 6, 6, 5
+P17, Domestication of Cats, Customized, 3, 3, 5, 3, 3, 3, 3
+P17, Mushrooms, StaticBig, 4, 3, 3, 3, 4, 4, 4
+P18, Domestication of Cats, StaticSmall, 1, 2, 4, 5, 4, 5, 5
+P18, Star Wars, Automatic, 3, 3, 3, 2, 3, 4, 4
+P18, Streetcars, Customized, 2, 3, 3, 4, 5, 5, 5
+P18, Mushrooms, StaticBig, 4, 2, 2, 2, 2, 3, 2
+P19, Spies and Secret Agents, StaticSmall, 1, 6, 6, 5, 6, 6, 4
+P19, Marathon Monks, Automatic, 2, 2, 2, 2, 2, 2, 2
+P19, Plankton, Customized, 3, 2, 5, 2, 5, 5, 3
+P19, Mushrooms, StaticBig, 4, 2, 5, 3, 3, 4, 4
+P20, History of the Olympics, StaticSmall, 1, 5, 5, 5, 4, 6, 5
+P20, Hummingbirds, Automatic, 3, 3, 3, 4, 2, 3, 2
+P20, Evolution of Technology, Customized, 2, 4, 5, 4, 5, 5, 4
+P20, Carthage, StaticBig, 4, 3, 3, 4, 4, 3, 2
+P21, History of the Olympics, StaticSmall, 1, 3, 5, 3, 5, 6, 3
+P21, Spies and Secret Agents, Automatic, 2, 3, 5, 3, 5, 5, 3
+P21, Streetcars, Customized, 3, 4, 5, 3, 5, 6, 3
+P21, Social Media, StaticBig, 4, 2, 1, 2, 2, 1, 1
+P22, Mushrooms, StaticSmall, 1, 2, 2, 2, 2, 1, 1
+P22, Star Wars, Automatic, 3, 2, 2, 2, 4, 3, 2
+P22, Evolution of Technology, Customized, 2, 2, 4, 3, 5, 5, 4
+P22, Plankton, StaticBig, 4, 1, 1, 1, 2, 1, 1
+P23, Streetcars, StaticSmall, 1, 3, 5, 2, 5, 5, 4
+P23, Plankton, Automatic, 2, 2, 3, 2, 4, 3, 4
+P23, Marathon Monks, Customized, 3, 2, 3, 2, 4, 4, 4
+P23, Time Travel, StaticBig, 4, 2, 2, 2, 4, 3, 2
+P24, Social Media, StaticSmall, 1, 2, 2, 2, 2, 2, 1
+P24, Star Wars, Automatic, 3, 2, 2, 2, 2, 2, 2
+P24, Spies and Secret Agents, Customized, 2, 1, 2, 2, 2, 2, 2
+P24, Mushrooms, StaticBig, 4, 2, 2, 2, 2, 2, 2
+P25, Mushrooms, StaticSmall, 1, 2, 4, 4, 5, 5, 5
+P25, Star Wars, Automatic, 2, 1, 3, 1, 2, 3, 2
+P25, Evolution of Technology, Customized, 3, 3, 3, 2, 3, 3, 3
+P25, History of the Olympics, StaticBig, 4, 1, 2, 2, 4, 3, 2
+P26, History of the Olympics, StaticSmall, 1, 4, 4, 5, 4, 5, 4
+P26, Streetcars, Automatic, 3, 4, 5, 5, 5, 5, 5
+P26, Hummingbirds, Customized, 2, 4, 4, 5, 5, 5, 5
+P26, Evolution of Technology, StaticBig, 4, 4, 4, 5, 5, 5, 6
+P27, Evolution of Technology, StaticSmall, 1, 3, 3, 3, 3, 5, 3
+P27, Star Wars, Automatic, 2, 3, 3, 3, 3, 3, 2
+P27, Plankton, Customized, 3, 3, 3, 3, 3, 2, 2
+P27, Time Travel, StaticBig, 4, 3, 3, 3, 3, 2, 2
+P28, Carthage, StaticSmall, 1, 5, 4, 4, 4, 4, 4
+P28, Social Media, Automatic, 3, 4, 4, 4, 3, 3, 4
+P28, History of Chess, Customized, 2, 5, 5, 5, 5, 5, 4
+P28, Evolution of Technology, StaticBig, 4, 3, 4, 3, 3, 3, 4
+P29, History of Chess, StaticSmall, 1, 2, 4, 1, 4, 5, 4
+P29, History of the Olympics, Automatic, 2, 2, 5, 1, 4, 4, 4
+P29, Hummingbirds, Customized, 3, 2, 4, 1, 4, 4, 4
+P29, Carthage, StaticBig, 4, 2, 4, 1, 4, 4, 4
+P30, Evolution of Technology, StaticSmall, 1, 5, 4, 4, 5, 5, 5
+P30, Mushrooms, Automatic, 3, 5, 5, 5, 5, 4, 5
+P30, Social Media, Customized, 2, 5, 4, 4, 5, 5, 5
+P30, Hummingbirds, StaticBig, 4, 5, 5, 5, 4, 5, 5
+P31, Time Travel, StaticSmall, 1, 2, 2, 1, 1, 2, 1
+P31, History of the Olympics, Automatic, 2, 3, 5, 2, 4, 5, 4
+P31, Carthage, Customized, 3, 2, 2, 2, 2, 2, 2
+P31, Spies and Secret Agents, StaticBig, 4, 2, 1, 1, 1, 1, 1
+P32, History of the Olympics, StaticSmall, 1, 4, 5, 4, 5, 5, 4
+P32, Star Wars, Automatic, 3, 5, 5, 5, 4, 3, 3
+P32, Marathon Monks, Customized, 2, 4, 3, 3, 3, 3, 3
+P32, Social Media, StaticBig, 4, 2, 2, 2, 1, 1, 2
+P33, Time Travel, StaticSmall, 1, 5, 5, 3, 4, 5, 5
+P33, Spies and Secret Agents, Automatic, 2, 2, 2, 2, 1, 1, 2
+P33, History of Chess, Customized, 3, 1, 1, 1, 2, 1, 1
+P33, History of the Olympics, StaticBig, 4, 5, 5, 4, 2, 1, 1
+P34, Plankton, StaticSmall, 1, 5, 5, 4, 4, 5, 4
+P34, Streetcars, Automatic, 3, 3, 4, 3, 3, 3, 4
+P34, Hummingbirds, Customized, 2, 3, 3, 3, 3, 4, 3
+P34, Carthage, StaticBig, 4, 2, 2, 3, 3, 3, 3
+P35, Domestication of Cats, StaticSmall, 1, 3, 3, 5, 3, 3, 3
+P35, Time Travel, Automatic, 2, 4, 4, 3, 5, 4, 5
+P35, Plankton, Customized, 3, 3, 3, 3, 2, 2, 2
+P35, Carthage, StaticBig, 4, 4, 4, 5, 5, 5, 4
+P36, Star Wars, StaticSmall, 1, 4, 5, 5, 5, 5, 3
+P36, Social Media, Automatic, 3, 4, 5, 4, 6, 6, 6
+P36, Marathon Monks, Customized, 2, 3, 4, 4, 5, 5, 4
+P36, Evolution of Technology, StaticBig, 4, 3, 3, 3, 4, 3, 3
+P37, Star Wars, StaticSmall, 1, 5, 5, 6, 6, 5, 5
+P37, Carthage, Automatic, 2, 3, 5, 4, 5, 4, 5
+P37, Domestication of Cats, Customized, 3, 4, 4, 3, 4, 4, 4
+P37, Spies and Secret Agents, StaticBig, 4, 4, 3, 3, 4, 4, 4
+P38, History of the Olympics, StaticSmall, 1, 2, 3, 4, 3, 5, 4
+P38, Spies and Secret Agents, Automatic, 3, 2, 3, 4, 5, 2, 4
+P38, Domestication of Cats, Customized, 2, 2, 3, 4, 3, 3, 4
+P38, Mushrooms, StaticBig, 4, 5, 4, 5, 5, 6, 6
+P39, Hummingbirds, StaticSmall, 1, 2, 5, 4, 4, 5, 5
+P39, Mushrooms, Automatic, 2, 3, 3, 3, 3, 3, 3
+P39, Spies and Secret Agents, Customized, 3, 3, 3, 3, 3, 3, 3
+P39, Domestication of Cats, StaticBig, 4, 3, 3, 3, 3, 3, 3
+P40, Carthage, StaticSmall, 1, 3, 5, 6, 4, 5, 4
+P40, Star Wars, Automatic, 3, 3, 4, 4, 4, 5, 2
+P40, Evolution of Technology, Customized, 2, 4, 5, 4, 4, 4, 2
+P40, History of Chess, StaticBig, 4, 2, 5, 5, 4, 5, 3
+P41, Spies and Secret Agents, StaticSmall, 1, 1, 5, 5, 6, 6, 2
+P41, Domestication of Cats, Automatic, 2, 4, 3, 3, 3, 3, 3
+P41, Hummingbirds, Customized, 3, 3, 6, 5, 7, 6, 3
+P41, Plankton, StaticBig, 4, 2, 5, 4, 5, 5, 2
+P42, Star Wars, StaticSmall, 1, 5, 5, 6, 5, 5, 5
+P42, Domestication of Cats, Automatic, 3, 6, 6, 6, 7, 7, 7
+P42, Marathon Monks, Customized, 2, 4, 5, 4, 3, 4, 3
+P42, Plankton, StaticBig, 4, 1, 2, 1, 1, 2, 1
+P43, Streetcars, StaticSmall, 1, 4, 6, 5, 6, 7, 6
+P43, Social Media, Automatic, 2, 4, 5, 5, 4, 4, 3
+P43, History of the Olympics, Customized, 3, 4, 5, 5, 4, 5, 4
+P43, Spies and Secret Agents, StaticBig, 4, 3, 4, 4, 3, 3, 3
+P44, History of Chess, StaticSmall, 1, 4, 5, 5, 5, 5, 5
+P44, Marathon Monks, Automatic, 3, 2, 2, 2, 2, 2, 2
+P44, Star Wars, Customized, 2, 4, 3, 3, 4, 3, 3
+P44, Time Travel, StaticBig, 4, 1, 1, 1, 2, 1, 2
+P45, Streetcars, StaticSmall, 1, 1, 5, 3, 5, 4, 5
+P45, Time Travel, Automatic, 2, 2, 3, 3, 3, 3, 3
+P45, Domestication of Cats, Customized, 3, 2, 4, 2, 4, 5, 2
+P45, Star Wars, StaticBig, 4, 2, 5, 2, 4, 3, 2
